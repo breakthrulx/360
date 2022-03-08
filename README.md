@@ -1,2 +1,2 @@
 # 360
-For all 360 virtual tour projects.
+For 360 virtual tour project sandbox.
